@@ -44,8 +44,13 @@ body{
 #gallery img{
     max-width:100%;
     border:5px solid #3B5B69;
-
+    text-align: center;
     
+}
+
+#formElements{
+    display:grid;
+    text-align: left;
 }
 article {
     padding:2em;
