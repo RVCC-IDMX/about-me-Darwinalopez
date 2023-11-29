@@ -25,6 +25,16 @@ body{
     flex-direction: column;
     align-items: center;
 }
+
+#video{
+    color:#3B5B69;
+    font-size: 2rem;
+    font-family: urbanist;
+    text-align: center;
+    border: 4px solid #3B5B69;
+    margin-bottom: 3ex
+    
+}
 #gallery {
     align-items: center;
     border: 4px solid #3B5B69;
